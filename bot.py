@@ -7,7 +7,7 @@ from aiogram.utils.executor import start_polling
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from datetime import datetime
 
-API_TOKEN = '7250733161:AAGAREybiUFzyOFiJMjjP0m64N60ohPMLuc'
+API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
 
 # Setup logging
 logging.basicConfig(
